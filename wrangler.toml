@@ -1,0 +1,6 @@
+name = "syr"
+compatibility_date = "2024-01-01"
+
+[assets]
+directory = "./syr"
+not_found_handling = "single-page-application"
