@@ -1,2 +1,0 @@
-# syr
-sistema de rois
